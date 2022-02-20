@@ -1,0 +1,15 @@
+
+£
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ8À»óöï/
+L
+java:S1874""7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD
+L
+java:S1874""7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD
+L
+java:S11174"6Rename "db" which hides the field declared at line 28.(¼Í’
+M
+java:S1172U"+Remove this unused method parameter "view".(•˜ä­úÿÿÿÿ8ö»óöï/
+>
+java:S1116Y"Remove this empty statement.(ôŸìúÿÿÿÿ8¼óöï/
+i
+java:S20953"SUse try-with-resources or close this "AdminSQLiteOpenHelper" in a "finally" clause.(ãõâ´

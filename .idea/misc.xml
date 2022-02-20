@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/drawable/bordesboton.xml" value="0.2203125" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/drawable/ic_bro.xml" value="0.3828125" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_historial.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_historial_tarjetas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_principal.xml" value="0.22" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_registro.xml" value="0.5" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_registro_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/activity_targetas_principal.xml" value="0.22" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/content_historial_tarjetas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/list_element.xml" value="0.33" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/listatargetas.xml" value="0.25" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/listelementhistorial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/CRISTIAN/AndroidStudioProjects/WpossPrueba/app/src/main/res/layout/transferencias.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

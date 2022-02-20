@@ -1,0 +1,32 @@
+
+Q	java:S125	"<This block of commented-out lines of code should be removed.(õõ†Å
+V
+java:S1126B"AReplace this if-then-else statement by a single return statement.(ş´¸1
+\
+java:S1126W"AReplace this if-then-else statement by a single return statement.(µ˜óäüÿÿÿÿ
+W
+java:S1126f"AReplace this if-then-else statement by a single return statement.(äºÖ´
+W
+java:S1126p"AReplace this if-then-else statement by a single return statement.(äºÖ´
+4
+java:S1128"Remove this duplicated import.(å’µŞ
+4
+java:S1128"Remove this duplicated import.(©Ê‰è
+9
+java:S1128"Remove this duplicated import.(Ôäåúÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(ãµèÈùÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(©ÑÏ™üÿÿÿÿ
+I
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûøôñ
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûøôñ

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:animateLayoutChanges="true"
+    app:cardElevation="5dp"
+    app:cardCornerRadius="15dp"
+    app:cardUseCompatPadding="true"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        android:background="#C1FCFFFE"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation ="horizontal"
+            android:padding="6dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/fondotarjeta">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/iconImagenView"
+                android:layout_width="70dp"
+                android:layout_height="130dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:background="#92E7F4F6"
+                android:paddingLeft="14dp"
+                android:paddingRight="14dp"
+                app:cardCornerRadius="15dp"
+                app:srcCompat="@drawable/icon_money" />
+            <LinearLayout
+                android:id="@+id/linearlayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_toEndOf="@+id/iconImagenView"
+                android:orientation="vertical"
+                android:layout_marginLeft="4dp"
+                android:layout_toRightOf="@+id/iconImagenView">
+
+                <TextView
+                    android:id="@+id/tvtitular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginStart="24dp"
+                    android:textColor="@color/verde"
+                    android:layout_marginTop="5dp"
+                    android:text="Tipo Targeta"
+                    android:textSize="20sp">
+                </TextView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearlayout1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearlayout"
+                android:layout_marginStart="7dp"
+                android:layout_marginLeft="7dp"
+                android:layout_marginTop="0dp"
+                android:layout_toEndOf="@+id/iconImagenView"
+                android:layout_toRightOf="@+id/iconImagenView"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvocteto1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="20dp"
+                    android:textColor="@color/verde"
+                    android:text="0000 0000 0000 0000"
+                    android:textSize="20sp">
+
+                </TextView>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linearlayout2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearlayout1"
+                android:layout_marginStart="7dp"
+                android:layout_marginLeft="7dp"
+                android:layout_marginTop="0dp"
+                android:layout_toEndOf="@+id/iconImagenView"
+                android:layout_toRightOf="@+id/iconImagenView"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvfechain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="20dp"
+                    android:text="00"
+                    android:textColor="@color/verde"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/tvdivision"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="1dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toEndOf="@+id/octeto1"
+                    android:text="/"
+                    android:textColor="@color/verde"
+                    android:textSize="20sp">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/tvfechafin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="1dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toEndOf="@+id/octeto1"
+                    android:text="00"
+                    android:textColor="@color/verde"
+                    android:textSize="20sp">
+
+                </TextView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearlayout3"
+                android:layout_width="114dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearlayout1"
+                android:layout_marginStart="85dp"
+                android:layout_marginLeft="85dp"
+                android:layout_marginTop="-1dp"
+                android:layout_toEndOf="@+id/linearlayout2"
+                android:layout_toRightOf="@+id/linearlayout2"
+                android:orientation="horizontal"
+                android:textColor="@color/verde">
+
+                <TextView
+                    android:id="@+id/tvsaldo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="20dp"
+                    android:text="0"
+                    android:paddingBottom="5dp"
+                    android:textColor="@color/verde"
+                    android:textSize="20sp">
+
+                </TextView>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

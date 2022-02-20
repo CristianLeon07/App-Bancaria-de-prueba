@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Wposs Prueba</string>
+    <string name="titulo1">Bienvenido, opten tu tarjeta de credito</string>
+    <string name="subtitulo1">Una ves accedas a nuestro sistema, podras escoger el estilo de tus targets, recuerda que el monto inicial es tu es de 1.000.000 COP</string>
+    <string name="btnRegistro">Registrate</string>
+    <string name="btnIniciarSesion">Iniciar Sesion</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="Opciones1">
+        <item>Opciones..</item>
+        <item>Bienes</item>
+        <item>Marketing</item>
+
+    </string-array>
+    <string-array name="Opciones2">
+        <item>Opciones..</item>
+        <item>Bienes</item>
+        <item>Marketing</item>
+        <item>Vestuario</item>
+    </string-array>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_historial_tarjetas">HistorialTarjetas</string>
+</resources>

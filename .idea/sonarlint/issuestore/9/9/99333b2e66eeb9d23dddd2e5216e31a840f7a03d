@@ -1,0 +1,139 @@
+
+[	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(™Ç
+[	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(™Ç
+[	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(™Ç
+\	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(á’Ò”
+h	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(ÇàÃíøÿÿÿÿ8·òöòï/
+s	java:S116/"YRename this field "CapturaUsuario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¦Ú†üÿÿÿÿ
+A
+java:S1659*"+Declare "mostrarNombre" on a separate line.(Êšœ
+L
+java:S18746"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD
+L
+java:S18746"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD
+Q
+java:S2696<"6Make the enclosing method "static" or remove this set.(²Šıúÿÿÿÿ
+L
+java:S1117H"6Rename "db" which hides the field declared at line 40.(¼Í’
+Q	java:S125P"<This block of commented-out lines of code should be removed.(óÒ×ï
+>	java:S108T")Either remove or fill this block of code.(å¥‡
+L
+java:S1117d"6Rename "db" which hides the field declared at line 40.(¼Í’
+O
+java:S1117i"9Rename "saldo" which hides the field declared at line 50.(”“ÚÆ
+L
+java:S1117|"6Rename "db" which hides the field declared at line 40.(¼Í’
+]
+java:S1126‚"AReplace this if-then-else statement by a single return statement.(Ïÿ—ˆüÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºÛ€ıÿÿÿÿ
+D
+java:S1172Œ"(Remove this unused method parameter "v".(ºÛ€ıÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ú‡’Ô
+U
+java:S1117’"9Rename "saldo" which hides the field declared at line 50.(¸Ë…¬øÿÿÿÿ
+F
+java:S1481’"*Remove this unused "saldo" local variable.(¸Ë…¬øÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(ò¶İÄ
+R
+java:S2696¤"6Make the enclosing method "static" or remove this set.(®¶Ş¼øÿÿÿÿ
+M
+java:S2696±"6Make the enclosing method "static" or remove this set.(ÏÉÃ­
+P
+java:S1854»":Remove this useless assignment to local variable "random".(¼İÅf
+4
+java:S2119»"Save and re-use this "Random".(¼İÅf
+A
+java:S1481»"+Remove this unused "random" local variable.(¼İÅf
+E
+java:S2140½")Use "java.util.Random.nextInt()" instead.(Û…´ÿÿÿÿÿ
+@
+java:S2140¾")Use "java.util.Random.nextInt()" instead.(À ƒ
+@
+java:S2140¿")Use "java.util.Random.nextInt()" instead.(šÁ§ù
+@
+java:S2140À")Use "java.util.Random.nextInt()" instead.(É¸üŒ
+B
+java:S1172ã"+Remove this unused method parameter "view".(¡Ş™©
+
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+M
+java:S2696ò"6Make the enclosing method "static" or remove this set.(úØÜ‚
+
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(š•ƒ®ûÿÿÿÿ
+V
+java:S1117ˆ":Rename "dialog" which hides the field declared at line 44.(­ãŒÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ïå÷ú
+W	java:S125"<This block of commented-out lines of code should be removed.(øé¥Šıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¬©‡Âşÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+M
+java:S1117´"6Rename "db" which hides the field declared at line 40.(¼Í’
+M
+java:S1117ß"6Rename "db" which hides the field declared at line 40.(¼Í’
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(ë¾Çµ
+3
+java:S1116ì"Remove this empty statement.(ë¾Çµ
+R	java:S125í"<This block of commented-out lines of code should be removed.(ŞÎÂÚ
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(Ä‰Ï
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(Üîæİ
+A
+java:S1172õ"+Remove this unused method parameter "view".(¹››.
+8
+java:S1116ù"Remove this empty statement.(ôŸìúÿÿÿÿ
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ³ïñüÿÿÿÿ
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¹ğœùÿÿÿÿ
+‚
+java:S1192"dDefine a constant instead of duplicating this literal "No se puede hacer la transferencia " 3 times.(œƒõ8Ìüöòï/
+a
+java:S1192•"JDefine a constant instead of duplicating this literal "Vestuario" 5 times.(Ü¤öò
+a
+java:S1192•"JDefine a constant instead of duplicating this literal "Marketing" 7 times.(Ü¤öò
+l
+java:S1192~"VDefine a constant instead of duplicating this literal "'AND usuariotarjeta='" 3 times.(Û²Çå
+
+java:S1192Ÿ"dDefine a constant instead of duplicating this literal "No se puede hacer esta tranferencia" 3 times.(™Ç8Ïüöòï/
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òá­Ü
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊãÎŸşÿÿÿÿ
+?
+java:S1604˜"(Make this anonymous inner class a lambda(„ƒ¬Œ
+D
+java:S1604Š"(Make this anonymous inner class a lambda(Äë½½şÿÿÿÿ
+m
+java:S1104."RMake opcion a static final constant or non-public and provide accessors if needed.(¹¶ÿ¬üÿÿÿÿ
+u
+java:S1104/"ZMake CapturaUsuario a static final constant or non-public and provide accessors if needed.(ª¦Ú†üÿÿÿÿ
+g
+java:S11040"QMake envio a static final constant or non-public and provide accessors if needed.(’À¡Å
+i
+java:S11041"SMake recibir a static final constant or non-public and provide accessors if needed.(ãïÄ˜
+l
+java:S11042"QMake saldo a static final constant or non-public and provide accessors if needed.(Ş»¤øÿÿÿÿ
+G
+java:S1444.",Make this "public static opcion" field final(¹¶ÿ¬üÿÿÿÿ
+A
+java:S14440"+Make this "public static envio" field final(’À¡Å
+C
+java:S14441"-Make this "public static recibir" field final(ãïÄ˜
+F
+java:S5411"*Use the primitive boolean expression here.(šŞğ€ıÿÿÿÿ
+F
+java:S5411¬"*Use the primitive boolean expression here.(šŞğ€ıÿÿÿÿ
+D
+java:S1199¶"-Extract this nested code block into a method.(êÄïş
+`
+java:S3973„"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+i
+java:S2095c"SUse try-with-resources or close this "AdminSQLiteOpenHelper" in a "finally" clause.(ãõâ´
+i
+java:S2095{"SUse try-with-resources or close this "AdminSQLiteOpenHelper" in a "finally" clause.(ãõâ´
+j
+java:S2095Ş"SUse try-with-resources or close this "AdminSQLiteOpenHelper" in a "finally" clause.(áœ†î
+i
+java:S2095G"SUse try-with-resources or close this "AdminSQLiteOpenHelper" in a "finally" clause.(ãõâ´
+j
+java:S2095³"SUse try-with-resources or close this "AdminSQLiteOpenHelper" in a "finally" clause.(ãõâ´
